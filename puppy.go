@@ -1,8 +1,6 @@
 package puppy
 
 import (
-	"https://github.com/padmarajkore/dog"
-
 	"github.com/padmarajkore/dog"
 )
 
