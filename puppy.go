@@ -37,3 +37,7 @@ func From13() {
 func Form14() {
 	fmt.Println("i am version 1.4.0")
 }
+
+func Form15() {
+	fmt.Println("i am version 1.5.0")
+}
